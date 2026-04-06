@@ -13,9 +13,6 @@ This project designs a complete computer network infrastructure for **XYZ Softwa
 <img width="1118" height="704" alt="Screenshot 2026-03-29 213541" src="https://github.com/user-attachments/assets/34393cd8-f9b4-4a40-9aad-d22ddbd5990e" />
 
 
-## 📊 Subnet Table
-
-![Subnet Table](images/subnet_table.png)
  
 ## 🎯 Objectives
  
